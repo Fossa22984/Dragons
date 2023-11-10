@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b960f7c680b88f742932a18b9bebd648, type: 3}
+  m_Name: CounterpicksData
+  m_EditorClassIdentifier: 
+  _counterpicks:
+  - <Pick>k__BackingField: 0
+    <GoodAgainst>k__BackingField: 040000000300000007000000
+    <BadAgainst>k__BackingField: 01000000050000000600000009000000
+  - <Pick>k__BackingField: 1
+    <GoodAgainst>k__BackingField: 000000000600000009000000
+    <BadAgainst>k__BackingField: 0300000007000000
+  - <Pick>k__BackingField: 2
+    <GoodAgainst>k__BackingField: 03000000
+    <BadAgainst>k__BackingField: 050000000800000006000000
+  - <Pick>k__BackingField: 3
+    <GoodAgainst>k__BackingField: 01000000080000000700000009000000
+    <BadAgainst>k__BackingField: 020000000000000006000000
+  - <Pick>k__BackingField: 4
+    <GoodAgainst>k__BackingField: 0800000007000000
+    <BadAgainst>k__BackingField: 000000000600000009000000
+  - <Pick>k__BackingField: 5
+    <GoodAgainst>k__BackingField: 02000000000000000600000007000000
+    <BadAgainst>k__BackingField: 0800000009000000
+  - <Pick>k__BackingField: 6
+    <GoodAgainst>k__BackingField: 0300000008000000020000000000000004000000
+    <BadAgainst>k__BackingField: 0100000005000000
+  - <Pick>k__BackingField: 7
+    <GoodAgainst>k__BackingField: 0100000008000000
+    <BadAgainst>k__BackingField: 040000000300000005000000
+  - <Pick>k__BackingField: 8
+    <GoodAgainst>k__BackingField: 0500000002000000
+    <BadAgainst>k__BackingField: 0400000003000000060000000700000009000000
+  - <Pick>k__BackingField: 9
+    <GoodAgainst>k__BackingField: 04000000050000000800000000000000
+    <BadAgainst>k__BackingField: 0300000001000000
